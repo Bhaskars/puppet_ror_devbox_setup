@@ -10,6 +10,10 @@ class development::otherpackages {
                 "nodejs",
                 "meld",
                 "Dropbox",
+                "network-manager-vpnc",
+                "libqt4-dev",
+                "libqtwebkit-dev",
+                "xvfb",
                 "google-chrome-stable",
 
         ]

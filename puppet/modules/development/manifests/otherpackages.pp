@@ -9,6 +9,7 @@ class development::otherpackages {
                 "gimp",
                 "nodejs",
                 "meld",
+                "Dropbox",
                 "google-chrome-stable",
 
         ]

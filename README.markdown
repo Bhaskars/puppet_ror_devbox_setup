@@ -1,6 +1,7 @@
 Usage :
-
-From a terminal execute  ./install.ubuntu.sh
+1) Download the zip file.
+2) From a terminal execute "sudo ./install.ubuntu.sh" (For ubuntu users)
+3) After the installation either open a new terminal to have rvm available or execute the following command "source /etc/profile"
 
 Packages installed :
 

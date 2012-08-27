@@ -43,8 +43,6 @@ class development {
    include development::apache
    include development::passenger
    include development::files
-   include development::rubymine
-   include development::dropbox
    include development::otherpackages
    include development::notification
 

@@ -1,5 +1,5 @@
 [submodule "rvm"]
-      path = rvm
+      path = puppet/modules/rvm
       url = git://github.com/blt04/puppet-rvm.git
 
 

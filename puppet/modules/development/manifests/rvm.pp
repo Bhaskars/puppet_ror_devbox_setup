@@ -1,6 +1,6 @@
 class development::rvm {
   include rvm
-  $uni_ruby_version = "ruby-1.9.3-p125"
+  $uni_ruby_version = "ruby-1.9.3-p194"
   $uni_gemset = "unisporkal"
   $full_gemset_name = "${uni_ruby_version}@${uni_gemset}"
 
